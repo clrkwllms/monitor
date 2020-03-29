@@ -2,11 +2,11 @@
 .DS_Store
 
 # configuration files
-address_blacklist
-behavior_preferences
-known_beacon_addresses
-known_static_addresses
-mqtt_preferences
+#address_blacklist
+#behavior_preferences
+#known_beacon_addresses
+#known_static_addresses
+#mqtt_preferences
 
 # caches/temp files
 .pids
